@@ -6,7 +6,7 @@ module.exports = {
     title: 'Om Sharma',
     description:
       "Om Sharma hold a Bachelor's degree in Technology from Technocrats Institute of Technology & Science in Bhopal, Madhya Pradesh. My journey into the fascinating realm of user experience began here, and my enthusiasm for this field has only grown stronger over time.",
-    siteUrl: 'https://vedant-jain03.github.io/portfolio/', // No trailing slash allowed!
+    siteUrl: 'https://portfolio-tau-azure-84.vercel.app/', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@vedantj_03',
   },
