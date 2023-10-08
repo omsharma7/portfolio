@@ -1,7 +1,11 @@
 import React from 'react';
 
 const IconLoader = () => (
-  <img src='https://user-images.githubusercontent.com/76901313/175760860-9992907c-2ce5-471b-a36f-f0c3c5c42828.png' id='main_logo_image' alt='logo' />
+  <img
+    src="https://user-images.githubusercontent.com/84135009/273432295-afeb8e59-1158-409d-bcfc-d94f38516c93.jpg"
+    id="main_logo_image"
+    alt="logo"
+  />
 );
 
 export default IconLoader;

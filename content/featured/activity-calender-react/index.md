@@ -1,13 +1,12 @@
 ---
 date: '3'
-title: 'activity-calendar-react(package)'
-cover: './demo.png'
-github: 'https://github.com/vedant-jain03/activity-calendar-react'
-external: 'https://www.npmjs.com/package/activity-calendar-react'
+title: 'Music App'
+cover: './demo.jpeg'
+external: 'https://www.figma.com/proto/z9XpZt1Xxiw4IuWfDQCYCu/Music-App?page-id=0%3A1&node-id=1-2&mode=design&t=Ofj5heBVZ4TBwV3D-1'
 tech:
-  - React
-  - Javascript
-  - Rollup
+  - Figma
+  - Wireframe
+  - Prototyping
 ---
 
-activity-calendar-react is a library that provides a component to render user's yearly activity on a calendar. This is similar to what we see in out GitHub profile.
+Explore my creation of a mobile music app designed for seamless listening, combining a user-centric approach with captivating visuals.

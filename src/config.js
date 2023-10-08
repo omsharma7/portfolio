@@ -1,26 +1,14 @@
 module.exports = {
-  email: 'vedantjainben10@gmail.com',
+  email: 'omsharma15000@gmail.com',
 
   socialMedia: [
     {
-      name: 'GitHub',
-      url: 'https://github.com/vedant-jain03',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/vedantj_03',
-    },
-    {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/vedant-jain-781006145/',
+      url: 'https://www.linkedin.com/in/om-sharma-8970841b2/',
     },
     {
-      name: 'Leetcode',
-      url: 'https://leetcode.com/vedantjain09/',
-    },
-    {
-      name: 'Medium',
-      url: 'https://medium.com/@vedantj03',
+      name: 'GitHub',
+      url: 'https://github.com/omsharma7',
     },
   ],
 
@@ -36,10 +24,6 @@ module.exports = {
     {
       name: 'Work',
       url: '/#projects',
-    },
-    {
-      name: 'Blog',
-      url: '/blog',
     },
     {
       name: 'Contact',

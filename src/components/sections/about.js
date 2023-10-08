@@ -128,16 +128,15 @@ const About = () => {
   }, []);
 
   const skills = [
-    'JavaScript',
-    'Ruby on Rails',
-    'React',
-    'Node.js',
-    'Express.js',
-    'MongoDB',
-    'MySQL',
-    'Git',
-    'GitHub',
-    'C++',
+    'Figma',
+    'Wireframes',
+    'Design Validation',
+    'Information Architecture ',
+    'Usability and Accessibility',
+    'Creative and Innovative',
+    'Color Palettes',
+    'Adobe Illustrator',
+    'User- Centered Design',
   ];
 
   return (
@@ -148,23 +147,15 @@ const About = () => {
         <StyledText>
           <div>
             <p className="about_para">
-              Hello! My name is Vedant Jain. I am undergrad student pursuing my bachelors degree in
-              computer science branch from Gyan Ganga Institute of Technology and Sciences, Jabalpur
-              (M.P.), India.
+              I hold a Bachelor's degree in Technology from Technocrats Institute of Technology &
+              Science in Bhopal, Madhya Pradesh. My journey into the fascinating realm of user
+              experience began here, and my enthusiasm for this field has only grown stronger over
+              time.
             </p>
 
             <p className="about_para">
-              I am Enthusiastic about Open Source, Full-stack Development, Software Development and
-              Hackathons.
-            </p>
-
-            <p className="about_para">
-              I am working as SDE intern @Atlan, GSoC'23 Mentor & GSoC'22 Mentee @CircuitVerse,
-              x-SDE intern @Farmako, GSoD'22 @Talawa.
-            </p>
-
-            <p className="about_para">
-              Here are a few language, platforms & technologies I’ve been working with recently:
+              My recent work has involved a diverse range of languages, platforms, and technologies,
+              including:
             </p>
           </div>
 
@@ -176,7 +167,7 @@ const About = () => {
         <StyledPic>
           <div className="wrapper">
             <StaticImage
-              src="../../images/me2.jpeg"
+              src="../../images/metho.jpg"
               className="img"
               width={500}
               quality={95}

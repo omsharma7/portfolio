@@ -1,15 +1,12 @@
 ---
 date: '1'
-title: 'Go With Flow'
-cover: './demo.png'
-github: 'https://github.com/vedant-jain03/Go-with-flow'
-external: 'https://vedant-jain03.github.io/Go-with-flow/'
+title: 'Case Study on Instagram'
+cover: './demo.jpeg'
+external: 'https://www.figma.com/proto/024yiUCbkMnNhiTaywMo7m/instagram-case-study?page-id=0%3A1&type=design&node-id=110-81&viewport=-41%2C339%2C0.18&t=iL5Mok47xkASE4MK-1&scaling=scale-down&mode=design'
 tech:
-  - React
-  - Node.js
-  - Express.js
-  - MongoDB
-  - Axios
+  - Figma
+  - Wireframe
+  - Prototyping
 ---
 
-Go with Flow is a platform that allows users to make Algorithm’s flowchart online using Simulator. The users can create many projects and can download them in form of images.
+Dive into my exploration of Instagram's user interface and experience, where I dissect what makes this platform so engaging and user-friendly.
