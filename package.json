@@ -2,6 +2,7 @@
   "name": "v4",
   "description": "Personal Website V4",
   "version": "1.0.0",
+  "homepage": "https://omsharma7.github.io/portfolio",
   "author": "Brittany Chiang <brittany.chiang@gmail.com>",
   "repository": {
     "type": "git",
@@ -13,6 +14,8 @@
   "license": "MIT",
   "browserslist": "> 0.25%, not dead",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
@@ -51,7 +54,7 @@
     "gatsby-source-filesystem": "^3.4.0",
     "gatsby-transformer-remark": "^4.1.0",
     "gatsby-transformer-sharp": "^3.4.0",
-    "gh-pages": "^4.0.0",
+    "gh-pages": "^6.0.0",
     "graphql": "^14.1.1",
     "lodash": "^4.17.19",
     "prismjs": "^1.25.0",
