@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tag-js",
+    "path": "/blog/tags/g-so-c-22/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"frontmatter":{"title":"Community Bonding Period at CircuitVerse — Google Summer of Code 2022","description":"My experience during Community Bonding Period at CircuitVerse (GSoC 22).","date":"2022-06-12T00:00:00.000Z","slug":"/blog/gsoc_community_bonding","tags":["GSoC'22","Internship"]}}}]}},"pageContext":{"tag":"GSoC'22"}},
+    "staticQueryHashes": ["1481993802","1994492073","3391063840","604461682"]}
