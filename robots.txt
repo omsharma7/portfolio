@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://vedant-jain03.github.io/portfolio/sitemap-index.xml
-Host: https://vedant-jain03.github.io
+Sitemap: https://portfolio-tau-azure-84.vercel.app/portfolio/sitemap-index.xml
+Host: https://portfolio-tau-azure-84.vercel.app
